@@ -4,7 +4,7 @@ import { IoIosArrowForward } from "react-icons/io";
 const Footer = () => {
   return (
     <footer className="bg-zinc-100 py-20">
-      <div className="flex flex-wrap gap-y-12 max-w-[1400px] mx-auto mx-9">
+      <div className="flex flex-wrap gap-y-12 max-w-[1400px] mx-auto px-10">
         {/* part 1 */}
         <div className="flex-1 basis-[300px]">
           <a href="" className="text-3xl font-bold">
